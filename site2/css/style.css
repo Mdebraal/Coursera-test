@@ -7,7 +7,7 @@ h1 {
 	padding: 10px;
 }
 @media (min-width: 768px){
-	.navbar-toggler
+	.navbar-toggler, .navbar-nav
 	{
 		display: none;
 	}
@@ -17,6 +17,7 @@ h1 {
 }
 .boxx {
 	background: lightgrey;
-	padding: 15px;
+	padding: 10px;
 	min-height: 1200px;
+	margin-bottom: 15px;
 }
